@@ -1,7 +1,11 @@
 ---
-title: "About Me"
+title: "About"
+image: profile.jpg
+about:
+    template: jolla
+
 ---
 
-# About Me
+## About this blog
 
 Welcome to my Data Analytics blog! I will be sharing insights, analysis, and projects related to data science, machine learning, and healthcare analytics.

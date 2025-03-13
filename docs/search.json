@@ -16,9 +16,16 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "About",
     "section": "",
-    "text": "About Me\nWelcome to my Data Analytics blog! I will be sharing insights, analysis, and projects related to data science, machine learning, and healthcare analytics."
+    "text": "Welcome to my Data Analytics blog! I will be sharing insights, analysis, and projects related to data science, machine learning, and healthcare analytics."
+  },
+  {
+    "objectID": "about.html#about-this-blog",
+    "href": "about.html#about-this-blog",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to my Data Analytics blog! I will be sharing insights, analysis, and projects related to data science, machine learning, and healthcare analytics."
   },
   {
     "objectID": "posts/2025-03-12-healthcare-data-analysis.html",
