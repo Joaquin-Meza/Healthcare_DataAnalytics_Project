@@ -1,0 +1,7 @@
+---
+title: "About Me"
+---
+
+# About Me
+
+Welcome to my Data Analytics blog! I will be sharing insights, analysis, and projects related to data science, machine learning, and healthcare analytics.
