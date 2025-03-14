@@ -1,7 +1,0 @@
----
-title: "Welcome to My Data Analytics Blog"
----
-
-# Data Analytics Progress
-
-This blog documents my journey through data analysis.
