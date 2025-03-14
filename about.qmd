@@ -1,0 +1,6 @@
+---
+title: "Who am I?"
+---
+
+I am a **biomedical engineer specializing in Data Science and machine learning**.
+This blog captures my progress on various projects related to **Data science, biomechanics, signal analysis, EEG, along other experiments**.

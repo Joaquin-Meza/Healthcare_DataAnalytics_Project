@@ -1,0 +1,13 @@
+---
+title: "Welcome to My Data Science journey "
+author: "Joaquin Meza"
+listing:
+  contents: "posts/*.qmd"
+  sort: "date desc"
+  type: default
+  categories: cloud
+  feed: true
+---
+
+This blog is aimed to document my journey through data science, data analysis, visualization, Machine Learning, Deep Learning
+ and insight, using Python, along with GitHub and Quarto to share my progress through this blog.
